@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=220&section=header&text=Ayush%20Kashyap&fontSize=42&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Developer%20%E2%80%A2%20Agentic%20AI%20Systems&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" />
 
   <a href="https://git.io/typing-svg">
