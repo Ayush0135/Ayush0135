@@ -6,9 +6,14 @@
   </a>
 
   <p align="center">
+    <a href="./assets/Ayush_Kashyap_Resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-007ACC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" /></a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/ayush-kashyap-11645626a/"><img src="https://img.shields.io/badge/LinkedIn-Ayush_Kashyap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    &nbsp;
     <a href="mailto:ayush.kashyap7155@gmail.com"><img src="https://img.shields.io/badge/Email-ayush.kashyap7155%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/Ayush0135/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    &nbsp;
+    <a href="https://leetcode.com/u/Ayush0135/"><img src="https://img.shields.io/badge/LeetCode-315%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+    &nbsp;
     <a href="https://ayush0135.github.io"><img src="https://img.shields.io/badge/Portfolio-Live_Website-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   </p>
 
@@ -17,6 +22,12 @@
     <img src="https://img.shields.io/badge/Role-AI%20Engineer%20%26%20GenAI%20Developer-161B22?style=flat-square&logo=codeforces&logoColor=58A6FF" />
     <img src="https://img.shields.io/badge/Ambassador-Google%20Gemini%20(GID%3A%204535)-4285F4?style=flat-square&logo=google&logoColor=white" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-238636?style=flat-square&logo=statuspage&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,flask,js,ts,nodejs,postgres,mysql,mongodb,aws,docker,git,linux,postman&theme=dark" alt="My Skills" />
+    </a>
   </p>
 </div>
 
@@ -246,24 +257,41 @@ Computer Science (**AI & Data Science**) student with hands-on experience buildi
 
 ---
 
-### 📊 GitHub Activity & Metrics
+### 📊 Performance & Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=Ayush0135&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="175" alt="Ayush's GitHub Stats" />
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Ayush0135&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="180" alt="Ayush's GitHub Stats" />
       </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=Ayush0135&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="175" alt="GitHub Streak" />
+      <td align="center" width="50%">
+        <a href="https://leetcode.com/u/Ayush0135/">
+          <img src="https://leetcard.jacoblin.cool/Ayush0135?theme=dark&font=Fira%20Code" height="180" alt="LeetCode Stats" />
+        </a>
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayush0135&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=Ayush0135&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="160" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayush0135&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="160" alt="Top Languages" />
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 🐍 Contribution Activity Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush0135/Ayush0135/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush0135/Ayush0135/output/github-contribution-grid-snake.svg">
+    <img alt="Ayush's Contribution Snake" src="https://raw.githubusercontent.com/Ayush0135/Ayush0135/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
@@ -281,6 +309,10 @@ Computer Science (**AI & Data Science**) student with hands-on experience buildi
 ### 🤝 Connect With Me
 
 <div align="center">
+  <a href="./assets/Ayush_Kashyap_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-007ACC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/ayush-kashyap-11645626a/">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush_Kashyap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
